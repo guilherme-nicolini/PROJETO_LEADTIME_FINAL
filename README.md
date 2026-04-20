@@ -1,6 +1,6 @@
 
 # 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
-=======
+
  🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 
@@ -11,18 +11,18 @@
 ## 📝 Sobre o Projeto
 
 
-=======
+
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 Este projeto foi desenvolvido para resolver um problema crítico em operações logísticas e financeiras: a **demora na identificação de anomalias**. Em vez de esperar que um analista abra um dashboard, este **Agente Inteligente** monitora o banco de dados SQL Server em tempo real e dispara alertas imediatos caso as metas de negócio sejam descumpridas.
 
 > "Dados parados não geram ação. Este agente garante que a informação chegue a quem decide, no momento em que o problema ocorre."
 
----
+
 
 ## 🚀 Funcionalidades Atuais (Fase 1: Motor Python)
 
 
-=======
+
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - **Vigilância 24/7:** Varredura automática em tabelas de simulação (`tSimulacao_IA`).
 - **Regras de Negócio Inteligentes:**
@@ -32,12 +32,12 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
   - **Telegram Bot:** Envio instantâneo via API (Alta disponibilidade).
   - **WhatsApp:** Interface humana para engajamento rápido da equipe.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
 
-=======
+
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - **Linguagem:** Python
 - **Bibliotecas:** - `Pandas` (Processamento de dados)
@@ -46,12 +46,12 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
   - `Python-Telegram-Bot` (Interface técnica de alertas)
 - **Banco de Dados:** SQL Server (Tabelas de Logística Olist)
 
----
+
 
 ## 📂 Estrutura do Repositório
 
 
-=======
+
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - `monitor_hibrido.py`: O coração do Agente Vigilante.
 - `requirements.txt`: Lista de dependências para replicação do ambiente.
@@ -64,13 +64,13 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ## 📈 Próximos Passos
 
 
-=======
+
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - [ ] Implementação de Dashboard Executivo no **Power BI**.
 - [ ] Migração para **Azure Functions** para execução serverless 24/7.
 - [ ] Integração de logs de auditoria no SQL Server.
 
----
+
 
 
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** _Focado em transformar dados em decisões em tempo real._
