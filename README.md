@@ -1,4 +1,4 @@
-# PROJETO_LEADTIME_FINAL# 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
+ 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
