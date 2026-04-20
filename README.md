@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
 =======
  🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
@@ -9,7 +9,7 @@
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 
 ## 📝 Sobre o Projeto
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
@@ -20,7 +20,7 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 🚀 Funcionalidades Atuais (Fase 1: Motor Python)
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
@@ -49,7 +49,7 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 📂 Estrutura do Repositório
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
@@ -62,7 +62,7 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 📈 Próximos Passos
-<<<<<<< HEAD
+
 
 =======
 >>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
@@ -72,7 +72,7 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 
 ---
 
-<<<<<<< HEAD
+
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** _Focado em transformar dados em decisões em tempo real._
 =======
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** *Focado em transformar dados em decisões em tempo real.*
