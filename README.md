@@ -63,6 +63,6 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 
 
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** _Focado em transformar dados em decisões em tempo real._
-=======
+
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** *Focado em transformar dados em decisões em tempo real.*
->>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
+
