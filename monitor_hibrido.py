@@ -13,6 +13,8 @@ import pyautogui
 # Lista de WhatsApp (Seus 3 contatos)
 contatos_whatsapp = ["+5511997156466"]  # Adicione o 3º aqui
 
+
+
 # Configurações do Telegram
 TOKEN_TELEGRAM = "8374729132:AAFsFzXHQDFL5q7ajDyQf6OQqSoTRQ7QWaQ"
 # Se for mandar para várias pessoas, use uma lista de IDs
