@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 # 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
+=======
+ 🛡️ Agente Vigilante de Dados: Monitoramento Híbrido Proativo
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 
 ## 📝 Sobre o Projeto
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 Este projeto foi desenvolvido para resolver um problema crítico em operações logísticas e financeiras: a **demora na identificação de anomalias**. Em vez de esperar que um analista abra um dashboard, este **Agente Inteligente** monitora o banco de dados SQL Server em tempo real e dispara alertas imediatos caso as metas de negócio sejam descumpridas.
 
 > "Dados parados não geram ação. Este agente garante que a informação chegue a quem decide, no momento em que o problema ocorre."
@@ -13,7 +20,10 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 🚀 Funcionalidades Atuais (Fase 1: Motor Python)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - **Vigilância 24/7:** Varredura automática em tabelas de simulação (`tSimulacao_IA`).
 - **Regras de Negócio Inteligentes:**
   - 🚨 **Alerta Financeiro:** Identifica quando o Ticket Médio cai abaixo da meta (R$ 100,00).
@@ -25,7 +35,10 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - **Linguagem:** Python
 - **Bibliotecas:** - `Pandas` (Processamento de dados)
   - `SQLAlchemy` (Conexão robusta com Banco de Dados)
@@ -36,7 +49,10 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 📂 Estrutura do Repositório
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - `monitor_hibrido.py`: O coração do Agente Vigilante.
 - `requirements.txt`: Lista de dependências para replicação do ambiente.
 - `.gitignore`: Proteção de dados sensíveis e arquivos de sistema (`venv`, `.env`).
@@ -46,11 +62,18 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 ---
 
 ## 📈 Próximos Passos
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
 - [ ] Implementação de Dashboard Executivo no **Power BI**.
 - [ ] Migração para **Azure Functions** para execução serverless 24/7.
 - [ ] Integração de logs de auditoria no SQL Server.
 
 ---
 
+<<<<<<< HEAD
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** _Focado em transformar dados em decisões em tempo real._
+=======
+**Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** *Focado em transformar dados em decisões em tempo real.*
+>>>>>>> 195d3c7b7cb1aff8596c4700663cf066fd986069
