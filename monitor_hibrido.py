@@ -11,14 +11,14 @@ import pyautogui
 # 1. CONFIGURAÇÕES
 # ==========================================================
 # Lista de WhatsApp (Seus 3 contatos)
-contatos_whatsapp = ["+5511997156466"]  # Adicione o 3º aqui
+contatos_whatsapp = ["+551199999999"]  # Adicione o 3º aqui
 
 
 
 # Configurações do Telegram
-TOKEN_TELEGRAM = "8374729132:AAFsFzXHQDFL5q7ajDyQf6OQqSoTRQ7QWaQ"
+TOKEN_TELEGRAM = "Seu_Token_Aqui"
 # Se for mandar para várias pessoas, use uma lista de IDs
-lista_ids_telegram = ["6669336647"]
+lista_ids_telegram = ["Seu_ID"]
 
 # Banco de Dados
 URI = f"mssql+pyodbc://./DB_Olist?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
