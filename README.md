@@ -47,15 +47,15 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 - `monitor_hibrido.py`: O coração do Agente Vigilante.
 - `requirements.txt`: Lista de dependências para replicação do ambiente.
 - `.gitignore`: Proteção de dados sensíveis e arquivos de sistema (`venv`, `.env`).
-- `*.sql`: (Em breve) Scripts de estruturação de dados.
-- `*.pbix`: (Em breve) Dashboard estratégico de suporte.
+- `*.sql`:  Scripts de estruturação de dados.
+- `*.pbix`:  Dashboard estratégico de suporte.
 
 ---
 
 ## 📈 Próximos Passos
 
 
-- [ ] Implementação de Dashboard Executivo no **Power BI**.
+- [X] Implementação de Dashboard Executivo no **Power BI**.
 - [ ] Migração para **Azure Functions** para execução serverless 24/7.
 - [ ] Integração de logs de auditoria no SQL Server.
 
@@ -64,5 +64,5 @@ Este projeto foi desenvolvido para resolver um problema crítico em operações 
 
 **Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** _Focado em transformar dados em decisões em tempo real._
 
-**Desenvolvido por [Guilherme Nicolini](https://github.com/guilherme-nicolini)** *Focado em transformar dados em decisões em tempo real.*
+
 
