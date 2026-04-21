@@ -7,11 +7,11 @@ from telegram import Bot
 from datetime import datetime
 import pyautogui
 
-# ==========================================================
+
 # 1. CONFIGURAÇÕES
-# ==========================================================
-# Lista de WhatsApp (Seus 3 contatos)
-contatos_whatsapp = ["+551199999999"]  # Adicione o 3º aqui
+
+# Lista de WhatsApp 
+contatos_whatsapp = ["+551199999999"]  # Adicione Aqui
 
 
 
@@ -24,9 +24,9 @@ lista_ids_telegram = ["Seu_ID"]
 URI = f"mssql+pyodbc://./DB_Olist?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
 
 
-# ==========================================================
-# 2. FUNÇÃO TELEGRAM (ENVIO RÁPIDO)
-# ==========================================================
+
+# 2. FUNÇÃO TELEGRAM 
+
 async def enviar_telegram(mensagem):
     try:
         bot = Bot(token=TOKEN_TELEGRAM)
@@ -39,9 +39,9 @@ async def enviar_telegram(mensagem):
         print(f"❌ [ERRO TELEGRAM] {e}")
 
 
-# ==========================================================
-# 3. FUNÇÃO WHATSAPP (COM ENTER FORÇADO)
-# ==========================================================
+
+# 3. FUNÇÃO WHATSAPP 
+
 def enviar_whatsapp_triplo(mensagem):
     for numero in contatos_whatsapp:
         try:
@@ -63,9 +63,9 @@ def enviar_whatsapp_triplo(mensagem):
             print(f"❌ [ERRO WHATSAPP] {e}")
 
 
-# ==========================================================
-# 4. MOTOR DO AGENTE (DISPARO ÚNICO)
-# ==========================================================
+
+# Agent
+
 def executar_agente():
     try:
         engine = create_engine(URI)
